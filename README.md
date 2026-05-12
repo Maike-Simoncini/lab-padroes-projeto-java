@@ -23,8 +23,9 @@ O objetivo é gerenciar o ciclo de vida de ocorrências de segurança (como falh
 ## 📂 Estrutura de Classes
 O diagrama abaixo ilustra a relação entre os componentes do sistema, focando na flexibilidade da implementação **Strategy**:
 
-![Diagrama de Classes](docs/watermarked_img.png)
-
+<div align="center">
+  <img src="docs/watermarked_img.png" alt="Diagrama de Classes" width="800">
+</div>
 
 ## 📖 Como Executar
 
