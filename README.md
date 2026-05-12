@@ -25,6 +25,7 @@ O diagrama abaixo ilustra a relação entre os componentes do sistema, focando n
 
 ![Diagrama de Classes](docs/watermarked_img.png)
 
+
 ## 📖 Como Executar
 
 1.  **Clone o repositório:**
